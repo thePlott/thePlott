@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thePlott
-- 👀 I’m interested in AI, python
+- 👀 I’m interested in lots of things!
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
