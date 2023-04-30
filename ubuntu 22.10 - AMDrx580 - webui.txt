@@ -16,4 +16,6 @@ FAILED: 1.13.1 torch==1.13.1+rocm5.2 torchvision==0.14.1+rocm5.2 torchaudio==0.1
 
 Scrapped that idea, now using manjaro!
 
+add this: https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux
+
 rocm: yay -Syu rocm-hip-sdk rocm-opencl-sdk python-pytorch-rocm python-torchvision-rocm python-numpy yq
