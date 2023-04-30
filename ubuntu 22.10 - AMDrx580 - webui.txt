@@ -1,11 +1,10 @@
-<h1>steps taken to get stable diffusion running: (so far)</h1>
-<h2>
+steps taken to get stable diffusion running: (so far)
+
 OS.  Ubuntu 22.10
 GPU. AMD RX580 8gb ddr5
 Radeon™ Software for Linux® version 22.40.3 for Ubuntu 22.04.2
 Revision Number 22.40.3
 Release Date 2/24/2023
-<h2>
 
 amdgpu-install --usecase=rocm,lrt,hip,hiplibsdk --no-dkms
 
