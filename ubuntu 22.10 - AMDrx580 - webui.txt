@@ -1,4 +1,4 @@
-steps taken to get stable diffusion running: 
+steps taken to get stable diffusion running: (so far)
 
 OS.  Ubuntu 22.10
 GPU. AMD RX580 8gb ddr5
